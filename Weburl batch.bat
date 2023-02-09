@@ -1,0 +1,1 @@
+start microsoft-edge:"https://inspiraenterprise.darwinbox.in/user/login"
